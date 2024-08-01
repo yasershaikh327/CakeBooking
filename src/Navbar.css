@@ -1,0 +1,55 @@
+/* src/Navbar.css */
+.navbar {
+    /*background: #cd10c652;*/
+    padding: 1rem;
+    background-color:#ffab7f7a;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin: 0 1rem;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+  
+  .nav-links a:hover {
+    color: yellow;
+  }
+  
+*{
+    font-family: "Playwrite AR";
+  }
+
+
+.logo{
+  color: white;
+}
+
+  body{
+    background-image: url('./Images/Mainpic.jpg');
+    background-size: cover; /* or 'contain', or '100% 100%' */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Adjust as needed */
+    width: 100%; /* Adjust as needed */
+    overflow: hidden;
+  }

@@ -1,0 +1,41 @@
+.box {
+    background: linear-gradient(135deg, #ffccff, #ff99cc);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 70%;
+    text-align: center;
+    display: inline-flex;
+    padding: 30px;
+}
+
+.box-item {
+    margin: auto;
+}
+
+.text {
+    display: block;
+    font-size: 1.2em;
+    color: #660066;
+    margin-bottom: 5px;
+}
+
+.number {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    color: #ff0066;
+    text-decoration: none;
+}
+
+.title{
+    color:yellow;
+    text-shadow: #ff0066;
+    text-decoration-thickness: initial;
+    font-weight: 900;
+    font-size: xxx-large;
+}
+
+.title:hover{
+    color:red;
+}

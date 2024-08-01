@@ -1,0 +1,51 @@
+#title{
+    background-color:rgba(165, 42, 42, 0.679);
+    border-radius: 20px;
+    color: white;
+    font-size: xxx-large;
+}
+
+#title2{
+    background-color:rgba(165, 42, 42, 0.679);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+
+#title3{
+    background-color:rgba(165, 42, 42, 0.259);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+
+
+
+.image-slider {
+    overflow: hidden; /* Ensure that the images do not overflow the container */
+    width: 100%; /* Set a fixed width for the slider */
+}
+
+.image-group {
+    display: inline-flex;
+   animation: slideRight 10s linear infinite;
+}
+
+@keyframes slideRight {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-100%); /* Move left by 50% of the width of the container */
+    }
+}
+
+
+
+.imgload{
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    border-radius: 5vh;
+    max-width: -webkit-fill-available;
+}
+
