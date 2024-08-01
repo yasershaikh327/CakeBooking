@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "66aa3969a1505042fa2e0c51"
+  },
+  "name": "sad",
+  "image": "https://media.istockphoto.com/id/1400398000/photo/victoria-sandwich-cake-decorated-with-strawberries-blueberries-and-mint-closeup.jpg?s=2048x2048&w=is&k=20&c=y5l-MZrJ5mkboXXoZvkrsSc6Q8m4M-GNqj61ybkUJGs=",
+  "description": "fg",
+  "category": "pastry",
+  "quantity": 3,
+  "__v": 0,
+  "id": 1
+}]

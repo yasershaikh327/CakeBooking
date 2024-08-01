@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66a8f558c180cfa7d53415df"
+  },
+  "firstName": "Yaser",
+  "lastName": "Shaikh",
+  "email": "syaser327@gmail.com",
+  "password": "Goa@123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9148aa41d4f9d5fa03b47"
+  },
+  "firstName": "Yaser",
+  "lastName": "Shaikh",
+  "email": "yaser.shaikh@ymail.com",
+  "password": "Goa@123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a915adfcb78e3bc2914134"
+  },
+  "firstName": "Yaser",
+  "lastName": "Shaikh",
+  "email": "yaser.shai1kh@ymail.com",
+  "password": "Goa@123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a91a31944e15d4a10c4fdd"
+  },
+  "firstName": "Yaser",
+  "lastName": "Shaikh",
+  "email": "syaser327@gamil.com",
+  "password": "Ankola@327",
+  "__v": 0
+}]

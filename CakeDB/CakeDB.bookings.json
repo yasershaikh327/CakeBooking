@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "66a9f667bf71e81e5c67fe52"
+  },
+  "productId": "2",
+  "customerID": "66a91a31944e15d4a10c4fdd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9f68eb7a4cf6a538234db"
+  },
+  "productId": "2",
+  "customerID": "66a91a31944e15d4a10c4fdd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9f696b7a4cf6a538234e0"
+  },
+  "productId": "2",
+  "customerID": "66a91a31944e15d4a10c4fdd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9f6a4b7a4cf6a538234e5"
+  },
+  "productId": "2",
+  "customerID": "66a91a31944e15d4a10c4fdd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9f6a8b7a4cf6a538234ea"
+  },
+  "productId": "2",
+  "customerID": "66a91a31944e15d4a10c4fdd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9f8cbb7a4cf6a53823501"
+  },
+  "productId": "2",
+  "customerID": "66a91a31944e15d4a10c4fdd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aa3fcd3a9077832e96060b"
+  },
+  "productId": "1",
+  "customerID": "66a91a31944e15d4a10c4fdd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66aa3fd23a9077832e960610"
+  },
+  "productId": "1",
+  "customerID": "66a91a31944e15d4a10c4fdd",
+  "__v": 0
+}]
